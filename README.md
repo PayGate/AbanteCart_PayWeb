@@ -5,7 +5,7 @@ This is the DPO PayGate PayWeb3 plugin for AbanteCart. Please feel free to conta
 
 ## Installation
 
-Please navigate to the [releases page](https://github.com/RBAtkins0n/PayWeb_AbanteCart/releases), download the latest release (v1.0.1) and unzip. You will them be able to follow the integration guide PDF which is included in the zip.
+Please navigate to the [releases page](https://github.com/PayGate/PayWeb_AbanteCart/releases), download the latest release (v1.0.1) and unzip. You will them be able to follow the integration guide PDF which is included in the zip.
 
 ## Collaboration
 
