@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/*
+ * Copyright (c) 2018 PayGate (Pty) Ltd
+ *
+ * Author: App Inlet (Pty) Ltd
+ * 
+ * Released under the GNU General Public License
+ */
+-->
+<package>
+  <id>paygate</id>
+  <type>extension</type>
+  <version>1.0.1</version>
+  <minversion>1.0.0</minversion>
+  <cartversions>
+    <item>1.2</item>
+  </cartversions>
+  <package_content>
+    <extensions>
+      <extension>paygate</extension>
+    </extensions>
+  </package_content>
+</package>
