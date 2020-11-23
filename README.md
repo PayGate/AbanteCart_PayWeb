@@ -6,7 +6,7 @@ This is the PayGate PayWeb3 plugin for AbanteCart. Please feel free to contact t
 ## Installation
 [![How To Setup PayGate PayWeb for AbanteCart](https://www.appinlet.com/wp-content/uploads/2018/09/AbanteCart-Integration.jpg)](https://www.youtube.com/watch?v=FP9nVXg1HLo "How To Setup PayGate PayWeb for AbanteCart")
 
-Please navigate to the [releases page](https://github.com/PayGate/PayWeb_AbanteCart/releases), download the latest release (v1.0.1) and unzip. You will them be able to follow the integration guide PDF which is included in the zip.
+Please navigate to the [releases page](https://github.com/PayGate/PayWeb_AbanteCart/releases), download the latest release (v1.0.1) and unzip. You will then be able to follow the integration guide PDF which is included in the zip.
 
 ## Collaboration
 
