@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 /*
- * Copyright (c) 2018 PayGate (Pty) Ltd
+ * Copyright (c) 2024 Payfast (Pty) Ltd
  *
  * Author: App Inlet (Pty) Ltd
- * 
+ *
  * Released under the GNU General Public License
  */
 -->
 <definitions>
 	<definition>
 		<key>paygate_name</key>
-		<value><![CDATA[PayGate]]></value>
+		<value><![CDATA[Paygate]]></value>
 	</definition>
 	<definition>
 		<key>paygate_merchant_id</key>
-		<value><![CDATA[PayGate ID]]></value>
+		<value><![CDATA[Paygate ID]]></value>
 	</definition>
 	<definition>
 		<key>paygate_merchant_key</key>
@@ -34,5 +34,125 @@
 		<key>paygate_order_status_id</key>
 		<value>
 			<![CDATA[Order Status:<br /><span class="help">Order status to be set after customer's order finished based on set Transaction Method</span>]]></value>
+	</definition>
+	<definition>
+		<key>paygate_credit_card</key>
+		<value><![CDATA[Credit Card]]></value>
+	</definition>
+	<definition>
+		<key>paygate_credit_card_0</key>
+		<value><![CDATA[ No ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_credit_card_1</key>
+		<value><![CDATA[ Yes ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_applepay</key>
+		<value><![CDATA[ApplePay]]></value>
+	</definition>
+	<definition>
+		<key>paygate_applepay_1</key>
+		<value><![CDATA[ Yes ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_applepay_0</key>
+		<value><![CDATA[ No ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_rcs</key>
+		<value><![CDATA[RCS]]></value>
+	</definition>
+	<definition>
+		<key>paygate_rcs_1</key>
+		<value><![CDATA[ Yes ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_rcs_0</key>
+		<value><![CDATA[ No ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_bank_transfer</key>
+		<value><![CDATA[Bank Transfer]]></value>
+	</definition>
+	<definition>
+		<key>paygate_bank_transfer_1</key>
+		<value><![CDATA[ Yes ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_bank_transfer_0</key>
+		<value><![CDATA[ No ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_samsungpay</key>
+		<value><![CDATA[SamsungPay]]></value>
+	</definition>
+	<definition>
+		<key>paygate_samsungpay_1</key>
+		<value><![CDATA[ Yes ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_samsungpay_0</key>
+		<value><![CDATA[ No ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_snapscan</key>
+		<value><![CDATA[SnapScan]]></value>
+	</definition>
+	<definition>
+		<key>paygate_snapscan_1</key>
+		<value><![CDATA[ Yes ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_snapscan_0</key>
+		<value><![CDATA[ No ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_momopay</key>
+		<value><![CDATA[MomoPay]]></value>
+	</definition>
+	<definition>
+		<key>paygate_momopay_1</key>
+		<value><![CDATA[ Yes ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_momopay_0</key>
+		<value><![CDATA[ No ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_zapper</key>
+		<value><![CDATA[Zapper]]></value>
+	</definition>
+	<definition>
+		<key>paygate_zapper_1</key>
+		<value><![CDATA[ Yes ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_zapper_0</key>
+		<value><![CDATA[ No ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_mobicred</key>
+		<value><![CDATA[Mobicred]]></value>
+	</definition>
+	<definition>
+		<key>paygate_mobicred_1</key>
+		<value><![CDATA[ Yes ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_mobicred_0</key>
+		<value><![CDATA[ No ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_scan_to_pay</key>
+		<value><![CDATA[Scan To Pay]]></value>
+	</definition>
+	<definition>
+		<key>paygate_scan_to_pay_1</key>
+		<value><![CDATA[ Yes ]]></value>
+	</definition>
+	<definition>
+		<key>paygate_scan_to_pay_0</key>
+		<value><![CDATA[ No ]]></value>
 	</definition>
 </definitions>

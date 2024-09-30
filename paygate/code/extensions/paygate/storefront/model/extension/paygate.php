@@ -1,16 +1,16 @@
 <?php
 /*
- * Copyright (c) 2018 PayGate (Pty) Ltd
+ * Copyright (c) 2024 Payfast (Pty) Ltd
  *
  * Author: App Inlet (Pty) Ltd
- * 
+ *
  * Released under the GNU General Public License
  */
 if ( !defined( 'DIR_CORE' ) ) {
     header( 'Location: static_pages/' );
 }
 
-class ModelExtensionPayGate extends Model
+class ModelExtensionPaygate extends Model
 {
 
     public $data = array();
@@ -51,7 +51,7 @@ class ModelExtensionPayGate extends Model
 
                 // disable payment if currency not found
                 if ( !$found ) {
-                    $this->log->write( 'PayGate.co.za error! Currency with code "ZAR" needed! ' );
+                    $this->log->write( 'Paygate.co.za error! Currency with code "ZAR" needed! ' );
                     $status = false;
                 }
             }

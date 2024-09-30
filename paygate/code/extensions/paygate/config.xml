@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 /*
- * Copyright (c) 2018 PayGate (Pty) Ltd
+ * Copyright (c) 2024 Payfast (Pty) Ltd
  *
  * Author: App Inlet (Pty) Ltd
- * 
+ *
  * Released under the GNU General Public License
  */
 -->
 <extension>
 	<id>paygate</id>
-	<version>1.0.1</version>
+	<version>1.1.0</version>
 	<type>payment</type>
 	<category>Payment</category>
 	<cartversions>
@@ -52,6 +52,86 @@
 					<field>name</field>
 				</fields>
 			</variants>
+		</item>
+		<item id="paygate_credit_card">
+			<type>selectbox</type>
+			<variants>
+				<item>1</item>
+				<item>0</item>
+			</variants>
+			<default_value>0</default_value>
+		</item>
+		<item id="paygate_bank_transfer">
+			<type>selectbox</type>
+			<variants>
+				<item>1</item>
+				<item>0</item>
+			</variants>
+			<default_value>0</default_value>
+		</item>
+		<item id="paygate_applepay">
+			<type>selectbox</type>
+			<variants>
+				<item>1</item>
+				<item>0</item>
+			</variants>
+			<default_value>0</default_value>
+		</item>
+		<item id="paygate_samsungpay">
+			<type>selectbox</type>
+			<variants>
+				<item>1</item>
+				<item>0</item>
+			</variants>
+			<default_value>0</default_value>
+		</item>
+		<item id="paygate_mobicred">
+			<type>selectbox</type>
+			<variants>
+				<item>1</item>
+				<item>0</item>
+			</variants>
+			<default_value>0</default_value>
+		</item>
+		<item id="paygate_momopay">
+			<type>selectbox</type>
+			<variants>
+				<item>1</item>
+				<item>0</item>
+			</variants>
+			<default_value>0</default_value>
+		</item>
+		<item id="paygate_scan_to_pay">
+			<type>selectbox</type>
+			<variants>
+				<item>1</item>
+				<item>0</item>
+			</variants>
+			<default_value>0</default_value>
+		</item>
+		<item id="paygate_snapscan">
+			<type>selectbox</type>
+			<variants>
+				<item>1</item>
+				<item>0</item>
+			</variants>
+			<default_value>0</default_value>
+		</item>
+		<item id="paygate_rcs">
+			<type>selectbox</type>
+			<variants>
+				<item>1</item>
+				<item>0</item>
+			</variants>
+			<default_value>0</default_value>
+		</item>
+		<item id="paygate_zapper">
+			<type>selectbox</type>
+			<variants>
+				<item>1</item>
+				<item>0</item>
+			</variants>
+			<default_value>0</default_value>
 		</item>
 	</settings>
 	<help_file><![CDATA[help.txt]]></help_file>
