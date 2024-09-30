@@ -1,9 +1,9 @@
 <?php
 /*
- * Copyright (c) 2018 PayGate (Pty) Ltd
+ * Copyright (c) 2024 Payfast (Pty) Ltd
  *
  * Author: App Inlet (Pty) Ltd
- * 
+ *
  * Released under the GNU General Public License
  */
 if ( !defined( 'DIR_CORE' ) ) {
@@ -29,7 +29,7 @@ $resource = array(
 foreach ( $language_list as $lang ) {
     $resource['name'][$lang['language_id']]        = 'payment-methods-masterpass.png';
     $resource['title'][$lang['language_id']]       = 'paygate_payment_storefront_icon';
-    $resource['description'][$lang['language_id']] = 'PayGate Storefront Icon';
+    $resource['description'][$lang['language_id']] = 'Paygate Storefront Icon';
 }
 $resource_id = $rm->addResource( $resource );
 

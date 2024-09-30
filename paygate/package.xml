@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 /*
- * Copyright (c) 2018 PayGate (Pty) Ltd
+ * Copyright (c) 2024 Payfast (Pty) Ltd
  *
  * Author: App Inlet (Pty) Ltd
- * 
+ *
  * Released under the GNU General Public License
  */
 -->
 <package>
   <id>paygate</id>
   <type>extension</type>
-  <version>1.0.1</version>
+  <version>1.1.0</version>
   <minversion>1.0.0</minversion>
   <cartversions>
     <item>1.2</item>
