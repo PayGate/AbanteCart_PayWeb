@@ -5,7 +5,7 @@ This is the Paygate plugin for AbanteCart. Please feel free to contact the Payfa
 support@payfast.help should you require any assistance.
 
 ## Installation
-[![How To Setup Paygate for AbanteCart](https://appinlet.com/wp-content/uploads/2021/01/How-To-Setup-Paygate-PayWeb-for-AbanteCart.jpg)](https://www.youtube.com/watch?v=FP9nVXg1HLo "How To Setup PayGate PayWeb for AbanteCart")
+[![How To Setup Paygate for AbanteCart](https://appinlet.com/wp-content/uploads/2021/01/How-To-Setup-PayGate-PayWeb-for-AbanteCart.jpg)](https://www.youtube.com/watch?v=FP9nVXg1HLo "How To Setup PayGate PayWeb for AbanteCart")
 
 Please navigate to the [releases page](https://github.com/Paygate/PayWeb_AbanteCart/releases), download the latest release (v1.1.0) and unzip. You will then be able to follow the integration guide PDF which is included in the zip.
 
